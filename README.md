@@ -3,7 +3,7 @@
 This repository features a collection of hand-coded HTML emails I designed and developed. These were built a few years ago and reflect a strong understanding of responsive design, inline styling, and email client compatibility.
 
 > 💻 Coded manually with classic tools — likely using:
-> - MJML (Mailjet Markup Language)
+> - MJML (Mailjet Markup Language) - Framework
 > - Sublime Text  
 > - Email on Acid (for testing)  
 > - Chrome DevTools  
