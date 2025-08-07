@@ -22,10 +22,11 @@ This repository features a collection of hand-coded HTML emails I designed and d
 ### Luxury Avenue
 - **Main Campaign**  
   [View Email](https://storied-liger-2011ed.netlify.app/)
-  ![Norwegian Cruise Line – 40% Off](https://raw.githubusercontent.com/cpuncekar/html-emails/main/02-norwegian-40percent-off.png)
+  ![Men's Sale](https://raw.githubusercontent.com/cpuncekar/html-emails/main/lux-ave-mens-sale.png)
 
 - **Outfit Email**  
   [View Email](https://lucent-profiterole-d29539.netlify.app/)
+  ![Outfit Email](https://raw.githubusercontent.com/cpuncekar/html-emails/main/lux-ave-outfit-html-email.png)
 
 - **Product Promo Email**  
   [View Email](https://bucolic-bonbon-a19f5d.netlify.app/)
