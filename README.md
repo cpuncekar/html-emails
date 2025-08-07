@@ -13,11 +13,12 @@ This repository features a collection of hand-coded HTML emails I designed and d
 
 ### Norwegian Cruise Line
 - **Norwegian Viva**  
-  [View Email](https://shimmering-pudding-c6e323.netlify.app/)
+- [View Email](https://shimmering-pudding-c6e323.netlify.app/)
   ![Norwegian Viva HTML Email](https://raw.githubusercontent.com/cpuncekar/html-emails/main/Norwegian-Viva-HTML-Email.png)
   
 - **40% Off Campaign**  
-  [View Email](https://lucent-dasik-2c78c2.netlify.app/)
+- [View Email](https://lucent-dasik-2c78c2.netlify.app/)
+  ![Norwegian Cruise Line – 40% Off](https://raw.githubusercontent.com/cpuncekar/html-emails/main/02-norwegian-40percent-off.png)
 
 ### Luxury Avenue
 - **Main Campaign**  
