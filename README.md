@@ -18,7 +18,7 @@ This repository features a collection of hand-coded HTML emails I designed and d
   
 - **40% Off Campaign**  
 || [View Email Link>](https://lucent-dasik-2c78c2.netlify.app/)
-  ![Norwegian Cruise Line – 40% Off](https://raw.githubusercontent.com/cpuncekar/html-emails/main/02-norwegian-40percent-off.png)
+![Norwegian Cruise Line – 40% Off](https://raw.githubusercontent.com/cpuncekar/html-emails/main/02-norwegian-40percent-off.png)
 
 ### Luxury Avenue
 - **Main Campaign**  
