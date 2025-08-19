@@ -1,39 +1,50 @@
-# HTML Email Showcase
+# 📧 HTML Email Showcase
 
-This repository features a collection of hand-coded HTML emails I designed and developed. These were built a few years ago and reflect a strong understanding of responsive design, inline styling, and email client compatibility.
+This repository features a collection of **hand-coded HTML emails** I designed and developed.  
+They reflect strong understanding of **responsive design, inline styling, and email client compatibility**.
 
-> 💻 Coded manually with classic tools — likely using:
-> - MJML (Mailjet Markup Language) - Framework
+> 💻 Built using:  
+> - MJML (Mailjet Markup Language)  
 > - Sublime Text  
-> - Email on Acid (for testing)  
+> - Email on Acid (testing)  
 > - Chrome DevTools  
-> - GitHub & Netlify for deployment
+> - GitHub & Netlify (deployment)  
 
-## 📧 Project Links
+---
 
-### Norwegian Cruise Line
-- **Norwegian Viva**
-|| [View Email Link>](https://shimmering-pudding-c6e323.netlify.app/)
-![Norwegian Viva HTML Email](https://raw.githubusercontent.com/cpuncekar/html-emails/main/Norwegian-Viva-HTML-Email.png)
-  
-- **40% Off Campaign**  
-|| [View Email Link>](https://lucent-dasik-2c78c2.netlify.app/) ![Norwegian Cruise Line – 40% Off](https://raw.githubusercontent.com/cpuncekar/html-emails/main/02-norwegian-40percent-off.png)
+## 🚢 Norwegian Cruise Line
 
-### Luxury Avenue
-- **Main Campaign**  
-  [View Email](https://storied-liger-2011ed.netlify.app/)
-  ![Men's Sale](https://raw.githubusercontent.com/cpuncekar/html-emails/main/lux-ave-mens-sale.png)
+### Norwegian Viva
+🔗 [View Email](https://shimmering-pudding-c6e323.netlify.app/)  
+<img src="https://raw.githubusercontent.com/cpuncekar/html-emails/main/Norwegian-Viva-HTML-Email.png" width="500" />
 
-- **Outfit Email**  
-  [View Email](https://lucent-profiterole-d29539.netlify.app/)
-  ![Outfit Email](https://raw.githubusercontent.com/cpuncekar/html-emails/main/lux-ave-outfit-html-email.png)
+---
 
-- **Product Promo Email**  
-  [View Email](https://bucolic-bonbon-a19f5d.netlify.app/)
+### 40% Off Campaign
+🔗 [View Email](https://lucent-dasik-2c78c2.netlify.app/)  
+<img src="https://raw.githubusercontent.com/cpuncekar/html-emails/main/02-norwegian-40percent-off.png" width="500" />
+
+---
+
+## 🛍️ Luxury Avenue
+
+### Main Campaign
+🔗 [View Email](https://storied-liger-2011ed.netlify.app/)  
+<img src="https://raw.githubusercontent.com/cpuncekar/html-emails/main/lux-ave-mens-sale.png" width="500" />
+
+---
+
+### Outfit Email
+🔗 [View Email](https://lucent-profiterole-d29539.netlify.app/)  
+<img src="https://raw.githubusercontent.com/cpuncekar/html-emails/main/lux-ave-outfit-html-email.png" width="500" />
+
+---
+
+### Product Promo
+🔗 [View Email](https://bucolic-bonbon-a19f5d.netlify.app/)
 
 ---
 
 ## 🔧 Notes
-
-- Each email was coded with performance, layout consistency, and mobile responsiveness in mind.
-- Focused on table-based structure, inline CSS, and maximum client compatibility.
+- All emails coded with **table-based structure** + **inline CSS** for maximum compatibility.  
+- Optimized for **performance, layout consistency, and mobile responsiveness**.
